@@ -3,9 +3,7 @@ module github.com/Chumper/golactor
 go 1.12
 
 require (
-	github.com/AsynkronIT/protoactor-go v0.0.0-20190322190419-5047f7241f58
-	github.com/DataDog/datadog-go v0.0.0-20190323183505-07c7c350327b // indirect
-	github.com/circonus-labs/circonus-gometrics v2.2.6+incompatible // indirect
+	github.com/AsynkronIT/protoactor-go v0.0.0-20200815184336-b225d28383f2
 	github.com/circonus-labs/circonusllhist v0.1.3 // indirect
 	github.com/google/flatbuffers v1.10.0
 	github.com/hashicorp/go-memdb v1.0.0 // indirect
@@ -24,6 +22,6 @@ require (
 	go.uber.org/atomic v1.3.2 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.9.1
-	golang.org/x/net v0.0.0-20190320064053-1272bf9dcd53
+	golang.org/x/net v0.0.0-20191116160921-f9c825593386
 	google.golang.org/grpc v1.30.0
 )
